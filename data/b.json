@@ -1,0 +1,5 @@
+[
+  { "function": "prod", "value": 2 },
+  { "function": "sum", "value": 1 },
+  { "function": "pow", "value": -2 }
+]
